@@ -1,9 +1,9 @@
-## Boas vindas ao meu perfil 
-- 🔭 I’m currently working on alura
-- 🌱 I’m currently learning mais sobre tecnologia
-- 👯 I’m looking to collaborate on tudo em minha sala
-- 🤔 I’m looking for help with ensinamento
-- 💬 Ask me about qualquer coisa interessante
+## Seja muito bem vindo ao meu perfil.
+- 🔭 I’m currently working: com o alura
+- 🌱 I’m currently learning mais sobre: tecnologia
+- 👯 I’m looking to collaborate on: tudo na minha sala
+- 🤔 I’m looking for help with: ensinamento
+- 💬 Ask me about: qualquer coisa interessante
 - 📫 How to reach me: deste meu perfil
 - 😄 Pronouns: nenhum
 - ⚡ Fun fact: sempre atras de melhorar
